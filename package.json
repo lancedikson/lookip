@@ -1,6 +1,6 @@
 {
   "name": "lookip",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "IP lookup package. Will use different configurable ip-lookup services in future.",
   "main": "lib/index.js",
   "scripts": {
