@@ -1,7 +1,7 @@
 import merge from 'object-merge';
 import GeoIPLiteService from './services/geoip-lite';
 
-class GeoIP {
+class LookIP {
   constructor(config = {}) {
 
     this.defaults = {
@@ -21,4 +21,4 @@ class GeoIP {
   };
 }
 
-export default GeoIP;
+export default LookIP;
